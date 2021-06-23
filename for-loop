@@ -2,7 +2,7 @@ Syntax:
 
 for(initialization, condition, increment/decrement)
 {
-  statemnet;
+  statement;
 }
 
 
